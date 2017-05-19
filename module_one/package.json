@@ -1,6 +1,9 @@
 {
   "name": "a-quote-a-day",
   "version": "1.0.0",
+  "engines": {
+    "node": "6.10.3"
+  },
   "description": "Displays a random quote",
   "main": "app.js",
   "scripts": {
